@@ -1,0 +1,2 @@
+# abstractMethodViaInheritance
+hw4C
